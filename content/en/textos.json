@@ -1,0 +1,164 @@
+{
+  "lang": "en",
+  "og_locale": "en_US",
+  "wa_msg": "Hello, I need urgent legal guidance.",
+  "nav": {
+    "home": "Home", "sobre": "The Firm", "areas": "Practice Areas", "artigos": "Articles", "contato": "Contact",
+    "cta": "Urgent Consultation", "menu": "Menu", "wa": "Chat on WhatsApp", "call": "Call now",
+    "skip": "Skip to content", "all_areas": "View all practice areas", "switch": "Ler esta página em português",
+    "lang_label": "Language", "hint": "This website is also available in English.", "hint_go": "View in English"
+  },
+  "common": {
+    "more": "Learn more", "consult": "Contact us", "premium": "Featured area", "read": "Read article",
+    "related_areas": "Related areas", "other_articles": "Other articles",
+    "services": "Specific services we provide", "faq_kicker": "Frequently Asked Questions", "faq_title": "Questions about",
+    "help_title": "Need help right now?",
+    "help_text": "Immediate assistance in emergencies: arrests, protective orders and urgent family court measures.",
+    "call": "Call:", "schedule": "Book a Consultation",
+    "cta_default": "Need guidance on your case?",
+    "cta_text": "Talk to MSPADV now. A strategic review of your case, handled quickly and in confidence.",
+    "notice": "<strong>Notice:</strong> this content is for information only and does not replace individual legal advice. Every case must be assessed by a lawyer.",
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  },
+  "footer": {
+    "about": "Strategic legal practice in family law, domestic violence and criminal defense, with service in English and Portuguese in Rio de Janeiro and São Paulo.",
+    "areas": "Practice Areas", "nav": "Navigation", "contact": "Contact",
+    "place": "Rio de Janeiro &middot; São Paulo<br>Meetings by appointment",
+    "wa": "Chat on WhatsApp", "rights": "All rights reserved.",
+    "privacy": "Privacy", "terms": "Terms", "privacy_full": "Privacy Policy", "terms_full": "Terms of Use",
+    "disclaimer": "This website is for information purposes only, in compliance with the Code of Ethics of the Brazilian Bar Association (OAB) and its Rule No. 205/2021. Nothing here is an offer of services, a solicitation of clients or a promise of results. Every case is assessed individually."
+  },
+  "form": {
+    "name": "Full name", "name_ph": "Your name", "phone": "Phone / WhatsApp", "phone_ph": "+00 000 000 0000",
+    "mail": "Email (optional)", "mail_ph": "you@email.com", "subject": "Subject", "other": "Other matter",
+    "msg": "Describe your situation", "msg_ph": "Briefly tell us what is happening...",
+    "send_wa": "Send via WhatsApp", "send_mail": "Send by email",
+    "err": "Please enter your name and a phone number we can reach you on.",
+    "ok": "All set. Your message is ready to send — if nothing opened, use the green WhatsApp button.",
+    "note": "Your information is kept confidential. Nothing is sent without your confirmation.",
+    "labels": ["Name", "Phone", "Email", "Subject", "Details", "Website enquiry"]
+  },
+  "home": {
+    "title": "MSPADV — Family Law & Criminal Defense Lawyer in Brazil | Marcelo Paiva Advocacia",
+    "desc": "English-speaking lawyer in Brazil for family law, domestic violence and criminal defense. Based in Rio de Janeiro and São Paulo, serving Brazilians and foreigners.",
+    "kicker": "Family Law · Domestic Violence · Criminal Defense",
+    "h1": "Strategic legal counsel for decisive moments, in <em>English and Portuguese</em>",
+    "lead": "Divorce, custody, support, protective orders and criminal defense. Technical, discreet and immediate representation for Brazilians and foreigners in Rio de Janeiro and São Paulo.",
+    "cta1": "Book a Consultation",
+    "photo_alt": "Marcelo Paiva, attorney",
+    "badge": ["30 years", "of litigation practice in family and criminal law"],
+    "stats": [
+      ["30", "", "", "years of<br>legal practice"],
+      ["24", "", "h", "response in<br>urgent cases"],
+      ["2", "", "", "working<br>languages"]
+    ],
+    "diff_kicker": "Why MSPADV",
+    "diff_title": "What protects you and your family",
+    "diffs": [
+      ["globe", "Bilingual Service", "Representation in English and Portuguese for Brazilian and foreign clients."],
+      ["bolt", "Immediate Response", "Injunctions, protective orders, arrests and habeas corpus handled as emergencies."],
+      ["target", "Strategy and Results", "Every case gets its own strategy, planned from the first step to the outcome."],
+      ["handshake", "A Human Approach", "Absolute discretion and close contact, without giving up technical rigor."]
+    ],
+    "areas_kicker": "Practice Areas",
+    "areas_title": "Two fronts, the same commitment",
+    "areas_lead": "Family disputes and criminal proceedings often run side by side. The firm handles both in an integrated way.",
+    "areas_all": "View all practice areas",
+    "office_alt": "View from the office in Rio de Janeiro",
+    "why_kicker": "Why choose our firm",
+    "why_title": "Skill, strategy and closeness when you need them most",
+    "why": [
+      ["One view of family and criminal matters", "A divorce may involve protective orders; an accusation may affect custody. We look after the case as a whole."],
+      ["Speed in urgent measures", "Custody and support injunctions, protective orders, custody hearings and habeas corpus."],
+      ["English-speaking service for foreigners", "Clear communication in English, from the first contact to the hearing."],
+      ["Confidentiality and a human approach", "Absolute discretion and close support at every stage of the case."]
+    ],
+    "why_btn": "About the firm",
+    "steps_kicker": "How it works",
+    "steps_title": "From first contact to handling your case",
+    "steps": [
+      ["First contact", "Reach us by WhatsApp, phone or the form. In emergencies, the response is immediate."],
+      ["Strategic review", "We study the facts and documents and explain, in plain language, the possible paths and their risks."],
+      ["Action and follow-up", "We run the case according to plan and keep you informed of every step."]
+    ],
+    "posts_kicker": "Articles",
+    "posts_title": "Clear information for better decisions",
+    "posts_all": "View all articles",
+    "form_kicker": "Consultation",
+    "form_title": "Talk to the firm now",
+    "form_lead": "Fill in the form and send your message by WhatsApp or email. After an arrest, with protective orders or in any situation of risk, response time is decisive.",
+    "form_list": [
+      ["Confidentiality guaranteed", "Your information is handled in complete confidence."],
+      ["Emergencies 24 hours a day", "Including weekends and public holidays."]
+    ],
+    "form_card": ["Request assistance", "Fast response. Complete confidentiality."],
+    "cta_title": "The right guidance can change the course of your case",
+    "cta_text": "Do not face a family or criminal case alone. Talk to MSPADV and understand your options clearly and safely."
+  },
+  "sobre": {
+    "title": "The Firm | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "About MSPADV: 30 years of litigation practice in family law, domestic violence and criminal defense in Brazil, with service in English and Portuguese.",
+    "h1": "Three decades of practice in family and criminal law",
+    "lead": "A firm devoted to people going through decisive moments — within the family or before the criminal courts — with skill, strategy and a human approach.",
+    "photo_alt": "Marcelo Paiva, attorney",
+    "badge": ["30", "years of practice"],
+    "h2": "Technical, strategic work with no improvisation",
+    "paras": [
+      "MSPADV — Marcelo Paiva Advocacia focuses on two fields that frequently intersect: family law (divorce, division of assets, custody, support and urgent measures) and criminal defense, with particular emphasis on domestic violence cases.",
+      "The firm is led by attorney Marcelo Paiva, who holds a master's degree in Criminal Law and Criminal Sciences and has worked in litigation since 1998, running his own practice since 2003. That experience makes it possible to see the whole case: how a protective order affects custody, how an accusation affects the division of assets, how a lawsuit affects the life of the person facing it.",
+      "We serve Brazilian and foreign clients, with fluent communication in <strong>English and Portuguese</strong>, so that every person fully understands their situation and the strategy adopted."
+    ],
+    "stats": [["30", "", "", "years of practice"], ["2", "", "", "working languages"], ["24", "", "h", "for urgent cases"]],
+    "cards_kicker": "Practice and Expertise",
+    "cards_title": "Where the firm concentrates its experience",
+    "cards": [
+      ["rings", "Divorce and Property", "Uncontested and contested divorce, division of assets and dissolution of stable unions."],
+      ["family", "Children: Custody and Support", "Custody, parenting time and child support, guided by the best interests of the child."],
+      ["heart", "Domestic Violence", "Protective orders and Maria da Penha Law proceedings, handled with skill and balance."],
+      ["gavel", "Criminal Law and Procedure", "Representation at every stage — investigation, trial, judgment and appeals."],
+      ["bolt", "Urgent Measures", "Injunctions, habeas corpus, release requests and urgent family court relief."],
+      ["globe", "Foreign Clients", "Service in English in criminal cases and family matters with an international element."]
+    ],
+    "values_kicker": "Our Values",
+    "values_title": "How we handle every case",
+    "values": [
+      ["Strategy first", "No decision is improvised. Every move is planned."],
+      ["Transparency with the client", "You understand, in plain language, what is happening and what your options are."],
+      ["Real availability", "Emergencies do not wait. We are reachable when you need us."],
+      ["Absolute confidentiality", "Discretion is an essential part of the work we do for those who come to us."]
+    ],
+    "office_alt": "View from the office in Rio de Janeiro",
+    "cta_title": "Talk to someone who understands your case",
+    "cta_text": "Book a consultation and receive a clear, honest and strategic assessment of your situation."
+  },
+  "areas": {
+    "title": "Practice Areas | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "MSPADV practice areas: divorce, division of assets, support, custody, international family law, domestic violence and full criminal defense in Brazil.",
+    "h1": "Practice Areas",
+    "lead": "Family law, domestic violence and criminal defense. Select a featured area to see in detail how we work.",
+    "cta_title": "Did not find your situation?",
+    "cta_text": "Tell us what is happening. We will assess the case and tell you frankly what the best path is."
+  },
+  "artigos": {
+    "title": "Articles | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "MSPADV articles on Brazilian family law, domestic violence and criminal law, written in clear, accessible language.",
+    "h1": "Articles and guidance",
+    "lead": "Informative content on family law, domestic violence and criminal law in Brazil, to help you understand your rights.",
+    "cta_title": "Have a question that is not covered here?",
+    "cta_text": "Talk to MSPADV and receive a strategic, confidential assessment of your case.",
+    "post_cta": "Need guidance on this subject?"
+  },
+  "contato": {
+    "title": "Contact | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "Contact MSPADV by WhatsApp, phone or email. Service in English and Portuguese, complete confidentiality and immediate response in emergencies.",
+    "h1": "Talk to the firm",
+    "lead": "Completely confidential. After an arrest, with protective orders or in any situation of risk, contact us immediately.",
+    "kicker": "How to reach us", "h2": "We are ready to help",
+    "l_wa": "WhatsApp", "l_tel": "Phone", "l_mail": "Email", "l_place": "Where we work", "l_hours": "Hours",
+    "place": "Rio de Janeiro &middot; São Paulo<br>In-person meetings by appointment",
+    "hours": "Regular service during business hours (Brasília time).<br>Emergencies: 24 hours.",
+    "wa_now": "Chat on WhatsApp now",
+    "form_card": ["Send your message", "Choose the channel: WhatsApp or email."]
+  },
+  "e404": {"h1": "Page not found", "lead": "", "btn": "Home"}
+}

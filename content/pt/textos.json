@@ -1,0 +1,168 @@
+{
+  "lang": "pt-BR",
+  "og_locale": "pt_BR",
+  "wa_msg": "Olá, preciso de orientação jurídica urgente.",
+  "nav": {
+    "home": "Início", "sobre": "O Escritório", "areas": "Áreas de Atuação", "artigos": "Artigos", "contato": "Contato",
+    "cta": "Consulta Urgente", "menu": "Menu", "wa": "Falar no WhatsApp", "call": "Ligar agora",
+    "skip": "Pular para o conteúdo", "all_areas": "Ver todas as áreas", "switch": "Read this page in English",
+    "lang_label": "Idioma", "hint": "Este site também está disponível em português.", "hint_go": "Ver em português"
+  },
+  "common": {
+    "more": "Saiba mais", "consult": "Consulte-nos", "premium": "Área em destaque", "read": "Ler artigo",
+    "related_areas": "Áreas relacionadas", "other_articles": "Outros artigos",
+    "services": "Serviços específicos que oferecemos", "faq_kicker": "Perguntas Frequentes", "faq_title": "Dúvidas sobre",
+    "help_title": "Precisa de ajuda agora?",
+    "help_text": "Atendimento imediato para urgências: prisões em flagrante, medidas protetivas e liminares em família.",
+    "call": "Ligar:", "schedule": "Agendar Consulta",
+    "cta_default": "Precisa de orientação sobre o seu caso?",
+    "cta_text": "Fale agora com o MSPADV. Análise estratégica do seu caso, com sigilo e agilidade.",
+    "notice": "<strong>Aviso:</strong> este conteúdo é informativo e não substitui a orientação jurídica individualizada. Cada caso deve ser analisado por um advogado.",
+    "months": ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
+  },
+  "footer": {
+    "about": "Advocacia estratégica em Direito de Família, violência doméstica e defesa criminal, com atendimento em português e inglês no Rio de Janeiro e em São Paulo.",
+    "areas": "Áreas", "nav": "Navegação", "contact": "Contato",
+    "place": "Rio de Janeiro &middot; São Paulo<br>Atendimento mediante agendamento",
+    "wa": "Atendimento no WhatsApp", "rights": "Todos os direitos reservados.",
+    "privacy": "Privacidade", "terms": "Termos", "privacy_full": "Política de Privacidade", "terms_full": "Termos de Uso",
+    "disclaimer": "Este site tem caráter meramente informativo, em conformidade com o Código de Ética e Disciplina da OAB e o Provimento nº 205/2021. O conteúdo não constitui oferta de serviços, captação de clientela ou promessa de resultados. Cada caso é analisado individualmente."
+  },
+  "form": {
+    "name": "Nome completo", "name_ph": "Seu nome", "phone": "Telefone / WhatsApp", "phone_ph": "(00) 00000-0000",
+    "mail": "E-mail (opcional)", "mail_ph": "voce@email.com", "subject": "Assunto", "other": "Outro assunto",
+    "msg": "Descreva sua situação", "msg_ph": "Conte resumidamente o que está acontecendo...",
+    "send_wa": "Enviar pelo WhatsApp", "send_mail": "Enviar por e-mail",
+    "err": "Por favor, informe seu nome e um telefone para contato.",
+    "ok": "Tudo certo. Abrimos sua mensagem pronta para envio — se nada abriu, use o botão verde do WhatsApp.",
+    "note": "Suas informações são tratadas com sigilo. Nada é enviado sem a sua confirmação.",
+    "labels": ["Nome", "Telefone", "E-mail", "Assunto", "Detalhes", "Contato pelo site"]
+  },
+  "home": {
+    "title": "MSPADV — Advocacia em Família e Defesa Criminal | Marcelo Paiva Advocacia",
+    "desc": "Advocacia estratégica em Direito de Família, violência doméstica e defesa criminal no Rio de Janeiro e São Paulo. Atendimento em português e inglês para brasileiros e estrangeiros.",
+    "kicker": "Família · Violência Doméstica · Defesa Criminal",
+    "h1": "Advocacia estratégica para os momentos decisivos, em <em>português e inglês</em>",
+    "lead": "Divórcio, guarda, alimentos, medidas protetivas e defesa criminal. Atuação técnica, discreta e imediata para brasileiros e estrangeiros, no Rio de Janeiro e em São Paulo.",
+    "cta1": "Agendar Consulta",
+    "photo_alt": "Marcelo Paiva, advogado",
+    "badge": ["30 anos", "de advocacia contenciosa em família e criminal"],
+    "stats": [
+      ["30", "", "", "anos de<br>advocacia"],
+      ["24", "", "h", "atendimento para<br>casos urgentes"],
+      ["2", "", "", "idiomas de<br>atendimento"]
+    ],
+    "diff_kicker": "Por que o MSPADV",
+    "diff_title": "Diferenciais que protegem você e a sua família",
+    "diffs": [
+      ["globe", "Atendimento Bilíngue", "Atuação em português e inglês para clientes brasileiros e estrangeiros."],
+      ["bolt", "Resposta Imediata", "Liminares, medidas protetivas, flagrantes e habeas corpus tratados com urgência."],
+      ["target", "Estratégia e Resultado", "Cada caso recebe uma estratégia própria, pensada do primeiro ato ao desfecho."],
+      ["handshake", "Atendimento Humanizado", "Discrição absoluta e proximidade, sem abrir mão do rigor técnico."]
+    ],
+    "areas_kicker": "Áreas de Atuação",
+    "areas_title": "Duas frentes, a mesma dedicação",
+    "areas_lead": "Conflitos de família e processos criminais costumam caminhar juntos. O escritório atua nas duas frentes de forma integrada.",
+    "areas_all": "Ver todas as áreas de atuação",
+    "office_alt": "Vista do escritório no Rio de Janeiro",
+    "why_kicker": "Por que escolher nosso escritório",
+    "why_title": "Técnica, estratégia e proximidade quando você mais precisa",
+    "why": [
+      ["Visão integrada de família e criminal", "Um divórcio pode envolver medidas protetivas; uma acusação pode afetar a guarda. Cuidamos do caso como um todo."],
+      ["Agilidade em medidas urgentes", "Liminares de guarda e alimentos, medidas protetivas, audiência de custódia e habeas corpus."],
+      ["Atendimento bilíngue para estrangeiros", "Comunicação clara em inglês, do primeiro contato à audiência."],
+      ["Sigilo e atendimento humanizado", "Discrição absoluta e acompanhamento próximo em cada etapa do processo."]
+    ],
+    "why_btn": "Conhecer o escritório",
+    "steps_kicker": "Como funciona",
+    "steps_title": "Do primeiro contato à condução do caso",
+    "steps": [
+      ["Primeiro contato", "Você nos procura pelo WhatsApp, telefone ou formulário. Em urgências, a resposta é imediata."],
+      ["Análise estratégica", "Estudamos os fatos e documentos e apresentamos, em linguagem clara, os caminhos possíveis e seus riscos."],
+      ["Atuação e acompanhamento", "Conduzimos o caso com planejamento e mantemos você informado sobre cada passo."]
+    ],
+    "posts_kicker": "Artigos",
+    "posts_title": "Informação clara para decidir melhor",
+    "posts_all": "Ver todos os artigos",
+    "form_kicker": "Consulta",
+    "form_title": "Fale com o escritório agora",
+    "form_lead": "Preencha o formulário e envie sua mensagem pelo WhatsApp ou por e-mail. Em prisões em flagrante, medidas protetivas e situações de risco, o tempo de resposta é decisivo.",
+    "form_list": [
+      ["Sigilo garantido", "Suas informações são tratadas com total confidencialidade."],
+      ["Urgências 24 horas", "Inclusive finais de semana e feriados."]
+    ],
+    "form_card": ["Solicitar atendimento", "Resposta rápida. Sigilo absoluto."],
+    "cta_title": "A orientação certa pode mudar o rumo do seu caso",
+    "cta_text": "Não enfrente um processo de família ou criminal sozinho. Converse com o MSPADV e entenda suas opções com clareza e segurança."
+  },
+  "sobre": {
+    "title": "O Escritório | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "Conheça o MSPADV: 30 anos de advocacia contenciosa em Direito de Família, violência doméstica e defesa criminal, com atendimento em português e inglês.",
+    "h1": "Três décadas de advocacia em Família e Direito Penal",
+    "lead": "Um escritório dedicado a quem atravessa momentos decisivos — na família ou diante da Justiça criminal — com técnica, estratégia e atendimento humano.",
+    "photo_alt": "Marcelo Paiva, advogado",
+    "badge": ["30", "anos de atuação"],
+    "h2": "Atuação técnica, estratégica e sem improviso",
+    "paras": [
+      "O MSPADV — Marcelo Paiva Advocacia concentra sua atuação em duas frentes que frequentemente se cruzam: o Direito de Família (divórcio, partilha de bens, guarda, alimentos e medidas cautelares) e a defesa criminal, com destaque para os casos de violência doméstica.",
+      "À frente do escritório está o advogado Marcelo Paiva, mestre em Direito Penal e Ciências Criminais, com trajetória construída no contencioso desde 1998 e escritório próprio desde 2003. Essa experiência permite enxergar o caso por inteiro: os reflexos de uma medida protetiva sobre a guarda, de uma acusação sobre a partilha, de um processo sobre a vida de quem o enfrenta.",
+      "Atendemos clientes brasileiros e estrangeiros, com comunicação fluente em <strong>português e inglês</strong>, para que cada pessoa compreenda plenamente a sua situação e as estratégias adotadas."
+    ],
+    "stats": [["30", "", "", "anos de advocacia"], ["2", "", "", "idiomas de atendimento"], ["24", "", "h", "para casos urgentes"]],
+    "cards_kicker": "Atuação e Especialização",
+    "cards_title": "Onde o escritório concentra sua experiência",
+    "cards": [
+      ["rings", "Divórcio e Patrimônio", "Divórcios consensuais e litigiosos, partilha de bens e dissolução de união estável."],
+      ["family", "Filhos: Guarda e Alimentos", "Guarda, convivência e pensão alimentícia, com atenção ao melhor interesse da criança."],
+      ["heart", "Violência Doméstica", "Medidas protetivas e processos da Lei Maria da Penha, conduzidos com técnica e equilíbrio."],
+      ["gavel", "Direito Penal e Processo Penal", "Atuação em todas as fases — investigação, instrução, julgamento e recursos."],
+      ["bolt", "Medidas de Urgência", "Liminares, habeas corpus, relaxamento de prisão e tutelas cautelares em família."],
+      ["globe", "Clientes Estrangeiros", "Atendimento em inglês em casos criminais e de família com elemento internacional."]
+    ],
+    "values_kicker": "Nossos Valores",
+    "values_title": "Como conduzimos cada caso",
+    "values": [
+      ["Estratégia antes de tudo", "Nenhuma decisão é tomada no improviso. Cada movimento é planejado."],
+      ["Transparência com o cliente", "Você entende, em linguagem clara, o que está acontecendo e quais são as opções."],
+      ["Disponibilidade real", "Urgências não esperam. Estamos acessíveis quando você precisa."],
+      ["Sigilo absoluto", "Discrição é parte essencial do trabalho de quem nos procura."]
+    ],
+    "office_alt": "Vista do escritório no Rio de Janeiro",
+    "cta_title": "Converse com quem entende do seu caso",
+    "cta_text": "Agende uma consulta e receba uma análise clara, honesta e estratégica da sua situação."
+  },
+  "areas": {
+    "title": "Áreas de Atuação | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "Áreas de atuação do MSPADV: divórcio, partilha, alimentos, guarda, família internacional, violência doméstica e defesa criminal completa.",
+    "h1": "Áreas de Atuação",
+    "lead": "Direito de Família, violência doméstica e defesa criminal. Clique nas áreas em destaque para conhecer em detalhe como atuamos.",
+    "cta_title": "Não encontrou a sua situação?",
+    "cta_text": "Conte o que está acontecendo. Avaliamos o caso e indicamos, com franqueza, o melhor caminho."
+  },
+  "artigos": {
+    "title": "Artigos | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "Artigos do MSPADV sobre Direito de Família, violência doméstica e Direito Penal, em linguagem clara e acessível.",
+    "h1": "Artigos e orientações",
+    "lead": "Conteúdo informativo sobre família, violência doméstica e Direito Penal, para ajudar você a entender seus direitos.",
+    "cta_title": "Tem uma dúvida que não está aqui?",
+    "cta_text": "Fale com o MSPADV e receba uma análise estratégica e sigilosa do seu caso.",
+    "post_cta": "Precisa de orientação sobre este tema?"
+  },
+  "contato": {
+    "title": "Contato | MSPADV — Marcelo Paiva Advocacia",
+    "desc": "Fale com o MSPADV pelo WhatsApp, telefone ou e-mail. Atendimento em português e inglês, com sigilo absoluto e resposta imediata em urgências.",
+    "h1": "Fale com o escritório",
+    "lead": "Atendimento com sigilo absoluto. Em flagrantes, medidas protetivas e situações de risco, contate-nos imediatamente.",
+    "kicker": "Canais de Atendimento", "h2": "Estamos prontos para ajudar",
+    "l_wa": "WhatsApp", "l_tel": "Telefone", "l_mail": "E-mail", "l_place": "Atuação", "l_hours": "Horário",
+    "place": "Rio de Janeiro &middot; São Paulo<br>Atendimento presencial mediante agendamento",
+    "hours": "Atendimento em horário comercial.<br>Urgências: 24 horas.",
+    "wa_now": "Falar no WhatsApp agora",
+    "form_card": ["Envie sua mensagem", "Escolha o canal: WhatsApp ou e-mail."]
+  },
+  "e404": {
+    "h1": "Página não encontrada",
+    "lead": "O endereço pode ter mudado. Volte ao início para encontrar o que procura.",
+    "btn": "Ir para o início"
+  }
+}
